@@ -11,7 +11,6 @@ package mongoapplication;
  * @author Makubex
  */
 public class MongoApplication {
-
     /**
      * @param args the command line arguments
      */
