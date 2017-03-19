@@ -1,0 +1,211 @@
+{"_id":{"$oid":"58ce3037dffedbe1022a72cb"},"book_id":"70121430","title":" Introduction to Algorithms","author_name":"Charles E. Leiserson","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72cc"},"book_id":"138613370","title":"A First Course in Database Systems","author_name":"Jeffrey D. Ullman","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a72cd"},"book_id":"130264857","title":"Algebra 1","author_name":"Jan Fair","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a72ce"},"book_id":"449202496","title":"All Quiet on the Western Front","author_name":"Erich Maria Remarque","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72cf"},"book_id":"314129499","title":"American Government","author_name":"Welch Gruhlt","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72d0"},"book_id":"60959290","title":"Among the Russians","author_name":"Colin Thubron","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72d1"},"book_id":"201634422","title":"An Engineering Approach to computer networks","author_name":"S Keshav","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a72d2"},"book_id":"076454621X","title":"3D Studio Max R3","author_name":"Kelly L. Murdock","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a72d3"},"book_id":"136603904","title":"Assembly Language for Intel-Based Computers","author_name":"Kip R. Irvine","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72d4"},"book_id":"039914563X","title":"Bear and the Dragon, The","author_name":"Clancy","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72d5"},"book_id":"811826848","title":"Beatles Anthology, The","author_name":"The Beatles","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72d6"},"book_id":"316154075","title":"A Darkness More than Night","author_name":"Michael Connelly","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72d7"},"book_id":"440413729","title":"Belle Prater's Boy","author_name":"Ruth White","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72d8"},"book_id":"1861003730","title":"Beginning PHP4","author_name":"Allan Kent","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72d9"},"book_id":"849323754","title":"Bioinformatics Basics Applications in Biological Science and Medicine","author_name":"Hooman H. Rashidi","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72da"},"book_id":"688160999","title":"Biomimicry : Innovation Inspired by Nature","author_name":"Janine M. Benyus","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72db"},"book_id":"156007754","title":"Blindness","author_name":"Giovanni Pontiero","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72dc"},"book_id":"1565926269","title":"Access Database Design And Programming","author_name":"Steven Roman","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a72dd"},"book_id":"452272971","title":"A Very Long Engagement","author_name":"Linda Coverdale","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a72de"},"book_id":"534368018","title":"A First Book of C++: From Here to There","author_name":"Gary J. Bronson","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a72df"},"book_id":"345419758","title":"Air Force One Has Landed","author_name":"Mass Market","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a72e0"},"book_id":"262181916","title":"Advice for a Young Investigator","author_name":"Ramon Y. Cajal","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72e1"},"book_id":"812520610","title":"Blood Brothers","author_name":"Brian Lumley","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a72e2"},"book_id":"471597619","title":"Analytical Chemistry","author_name":"Gary D. Christian","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72e3"},"book_id":"399147020","title":"Blood Lure","author_name":"Nevada Barr","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72e4"},"book_id":"375810609","title":"Bonjour Babar","author_name":"Jean DE Brunhoff","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a72e5"},"book_id":"1884133258","title":"C/C++ programmer's bible","author_name":"Jamsa Klander","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72e6"},"book_id":"316769487","title":"Catcher in the Rye","author_name":"J.D. Salinger","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a72e7"},"book_id":"093570261x","title":"Chemical Structure and Bonding","author_name":"Roger L. Dekock","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a72e8"},"book_id":"70571864","title":"Chemical Technicians Ready Reference Handbook","author_name":"Gershon J. Shugar","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72e9"},"book_id":"1878529234","title":"Chinese Furniture","author_name":"Craig Clunas","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72ea"},"book_id":"911625607","title":"CICS for the Cobol Programmer","author_name":"Doug Lowe","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a72eb"},"book_id":"528838180","title":"Coast-to-Coast Games","author_name":"Ran McNally","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72ec"},"book_id":"684869519","title":"Coming Home To Jerusalem: A Personal Journey","author_name":"Wendy Orange","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a72ed"},"book_id":"120848104","title":"Costa Rica: The Ecotraveller Wildlife Guide","author_name":"Les Beletsky","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a72ee"},"book_id":"062593460X","title":"Crazy Plates","author_name":"Greta Podleski","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a72ef"},"book_id":"750650869","title":"Data Analysis for Database Design","author_name":"David Howe","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a72f0"},"book_id":"1930110006","title":"Data Munging with Perl","author_name":"David Cross","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72f1"},"book_id":"821762559","title":"Daughter of Camelot","author_name":"Quinn Taylor Evans","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72f2"},"book_id":"911625593","title":"DB2 for the Cobol Programmer","author_name":"Steve Eckols","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72f3"},"book_id":"425147584","title":"Debt Of Honor","author_name":"Tom Clancy","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72f4"},"book_id":"534944469","title":"Discrete Mathematics with Applications","author_name":"Susanna S. Epp","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72f5"},"book_id":"70349096","title":"Distillation Design","author_name":"Henry Z. Kister","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a72f6"},"book_id":"553102370","title":"Eaters of the Dead","author_name":"Michael Crichton","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72f7"},"book_id":"471534781","title":"Elementary Principles of Chemical Processes","author_name":"Richard M. Felder","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a72f8"},"book_id":"874779758","title":"Entering Space","author_name":"Robert Zubrin","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a72f9"},"book_id":"30303370","title":"Essentials of Chemistry","author_name":"William Rife","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a72fa"},"book_id":"130819735","title":"Essentials of management","author_name":"Jame Laudon","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a72fb"},"book_id":"737800033","title":"Every Wall a ladder","author_name":"John H. Johnson","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a72fc"},"book_id":"201615622","title":"Exceptional C++: 47 Engineering Puzzles, Programming Problems","author_name":"Herb Sutter","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a72fd"},"book_id":"789404257","title":"Eyewitness Travel Guides: Italy","author_name":"Various","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a72fe"},"book_id":"471169196","title":"Financial Accounting: tools for business decision making","author_name":"Kimmel Weygandt","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a72ff"},"book_id":"60930497","title":"Finding Darwin God: Scientists Search for Common Ground","author_name":"Kenneth R. Miller","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7300"},"book_id":"688127371","title":"Fish and Shellfish","author_name":"James A. Peterson","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7301"},"book_id":"201709287","title":"Foundation for Future Database Systems: The Third Manifesto","author_name":"C.J. Date","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7302"},"book_id":"962477060","title":"Fretboard Logic SE: Volumes Combined","author_name":"Bill Edwards","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7303"},"book_id":"30059380","title":"Fundamentals of Analytical Chemistry","author_name":"Douglas A. Skooq","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7304"},"book_id":"805317554","title":"Fundamentals of Database Systems","author_name":"Elmasri and Navathe","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7305"},"book_id":"471105597","title":"Fundamentals of Physics Extended","author_name":"David Halliday","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7306"},"book_id":"1584500492","title":"Game Programming Gems","author_name":"Mark DeLoura","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7307"},"book_id":"395851580","title":"George and Martha the complete stories of two best friends","author_name":"James Marshall","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7308"},"book_id":"1557044287","title":"Gladiator","author_name":"Ridley Scott","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7309"},"book_id":"935112510","title":"Golf Rules Illustrated","author_name":"Clarke","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a730a"},"book_id":"312135033","title":"Great Catherine","author_name":"Carolly Erickson","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a730b"},"book_id":"684801523","title":"Great Gatsby","author_name":"F. Scott Fitzgerald","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a730c"},"book_id":"671032658","title":"Green Mile, The","author_name":"Stephen King","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a730d"},"book_id":"439136350","title":"Harry Potter and the chamber of secrets","author_name":"J. K. Rowling","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a730e"},"book_id":"72127481","title":"HACKING EXPOSED: NETWORK SECURITY SECRETS AND SOLUTIONS","author_name":"Joel Scambray","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a730f"},"book_id":"439139597","title":"Harry Potter and the goblet of fire","author_name":"J. K. Rowling","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7310"},"book_id":"439064864","title":"Harry Potter and the chambers of secrets","author_name":"J. K. Rowling","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7311"},"book_id":"60393645","title":"Healthy Life Kitchen","author_name":"Lorin Henner","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7312"},"book_id":"882664778","title":"Home Sausage Making","author_name":"Charles G. Reavis","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7313"},"book_id":"688161995","title":"How to Cook Meat","author_name":"Chris Schlesinger","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7314"},"book_id":"850668093","title":"Human-Robot Interaction","author_name":"Mansour Rahimi (Editor)","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7315"},"book_id":"609607995","title":"IBM and the Holocaust","author_name":"Edwin Black","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7316"},"book_id":"137566107","title":"IBM PC Assembly Language and Programming, Fourth Edition","author_name":"Peter Abel","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7317"},"book_id":"911625291","title":"IMS for the Cobol Programmer","author_name":"Steve Eckols","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7318"},"book_id":"767903854","title":"In a Sunburned Country","author_name":"Bill Bryson","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7319"},"book_id":"1864364432","title":"In Six Days : Why 50 Scientists Choose to Believe in Creation","author_name":"John Ashton","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a731a"},"book_id":"590956159","title":"In the Time of Dinosausrs","author_name":"K.A. Applegate","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a731b"},"book_id":"037541164X","title":"India Unbound","author_name":"Gurcharan Das","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a731c"},"book_id":"345337662","title":"Interview with a vampire","author_name":"Anne Rice","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a731d"},"book_id":"471135615","title":"Islands In the Sky: Bold New Ideas for Colonizing Space","author_name":"Robert Zubrin","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a731e"},"book_id":"1552047210","title":"James Herriots Favorite Dog Stories","author_name":"James Herriot","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a731f"},"book_id":"067944551X","title":"Jazz : A History of American Music","author_name":"Geoffrey C. Ward","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7320"},"book_id":"743202104","title":"Joy of Cooking Soups and Stews","author_name":"Ethan Becker","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7321"},"book_id":"345370775","title":"Jurassic Park","author_name":"Michael Crichton","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7322"},"book_id":"961549890","title":"Kauai Underground Guide","author_name":"Lenore W. Horowitz","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7323"},"book_id":"385326653","title":"Kits Wilderness","author_name":"David Almond","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7324"},"book_id":"553577476","title":"Lady Reckless","author_name":"Leslie Lafoy","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7325"},"book_id":"345377648","title":"Lasher","author_name":"Anne Rice","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7326"},"book_id":"1565922840","title":"Learning Perl","author_name":"Larry Wall","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7327"},"book_id":"864426429","title":"Lonely Planet Boston","author_name":"Kim Grant","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7328"},"book_id":"674003306","title":"Lenin: A Biography","author_name":"Robert Service","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7329"},"book_id":"838479022","title":"Looking Ahead","author_name":"Elizabeth Byleen","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a732a"},"book_id":"399501487","title":"Lord of the Flies: A Novel","author_name":"William Gerald Golding","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a732b"},"book_id":"671880756","title":"Making the Mummies Dance","author_name":"Thomas Hoving","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a732c"},"book_id":"256228779","title":"Marketing: Creating Value for Customers","author_name":"Gilbert Churchill","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a732d"},"book_id":"020163371X","title":"More Effective C++ : 35 New Ways to Improve Your Programs and Designs","author_name":"Scott Meyers","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a732e"},"book_id":"911625852","title":"MVS JCL for the Cobol Programmer","author_name":"Doug Lowe","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a732f"},"book_id":"1902618351","title":"My TV is Alive!: Real Life Robots, Future Computers and Clones","author_name":"Mei Lim (Illustrator)","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7330"},"book_id":"688163165","title":"Mystic River","author_name":"Dennis Lehane","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7331"},"book_id":"1586480103","title":"MyWar","author_name":"Andy Rooney","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7332"},"book_id":"1581950098","title":"Nabokovs Blues : The Scientific Odyssey of a Literary Genius","author_name":"Kurt Johnson","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7333"},"book_id":"1573225312","title":"Native Speaker","author_name":"Chang-Rae Lee","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7334"},"book_id":"201615711","title":"Network Programming with Perl","author_name":"Lincoln D. Stein","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7335"},"book_id":"345438310","title":"Nicholas and Alexandra","author_name":"Robert K Massie","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7336"},"book_id":"910146691","title":"North Carolina Hiking Trails","author_name":"Allen DE Hart","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7337"},"book_id":"807825859","title":"Not Afraid of Flavor","author_name":"Ann Hawthorne","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7338"},"book_id":"134897250","title":"Object Oriented Software Engineering, Conquering Complex and Changing Systems","author_name":"Alan H. Dutoit","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7339"},"book_id":"689829531","title":"Olivia","author_name":"Ian Falconer","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a733a"},"book_id":"689813813","title":"One Horse Waiting for Me","author_name":"Patricia Mullins","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a733b"},"book_id":"201612585","title":"Oracle8 Programming a primer","author_name":"Rajshekhar Sunderraman","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a733c"},"book_id":"1565926099","title":"Perl for System Administration","author_name":"David Blank-Edelman","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a733d"},"book_id":"70498415","title":"Perrys Chemical Engineers Handbook","author_name":"Robert H. Perry","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a733e"},"book_id":"345298063","title":"Peter the Great : His Life and World","author_name":"Robert K Massie","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a733f"},"book_id":"72127317","title":"PHP 4 Developers Guide","author_name":"Blake Schwendiman","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7340"},"book_id":"672319241","title":"PHP Developers Cookbook","author_name":"Andrei Zmievski","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7341"},"book_id":"764547161","title":"PHP4 Bible","author_name":"Joyce Park","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7342"},"book_id":"1565927699","title":"PHP Pocket Reference","author_name":"Rasmus Lerdorf","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7343"},"book_id":"120594757","title":"Practical Process Research and Development","author_name":"Neal G. Anderson","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7344"},"book_id":"596000278","title":"Programming Perl","author_name":"Jon Orwant","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7345"},"book_id":"449911942","title":"Rabbit at Rest","author_name":"John Updike","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7346"},"book_id":"067100767X","title":"Rain","author_name":"V.C. Andrews","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7347"},"book_id":"387987010","title":"Rare Earth: Why Complex Life is Uncommon in the Universe","author_name":"Peter Douglas Ward","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7348"},"book_id":"738204374","title":"Rattling the Cage: Toward Legal Rights for Animals","author_name":"Steven M. Wise","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7349"},"book_id":"375400818","title":"Reading Lyrics","author_name":"Robert Kimball","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a734a"},"book_id":"042510107X","title":"Red Storm Rising","author_name":"Tom Clancy","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a734b"},"book_id":"1566912296","title":"Rick Steve Italy 2001","author_name":"Rick Steves","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a734c"},"book_id":"316695262","title":"Right as Rain","author_name":"George P. Pelecanos","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a734d"},"book_id":"262133822","title":"Robo Sapiens: Evolution of a New Species","author_name":"Faith D. Aluisio","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a734e"},"book_id":"792393651","title":"Robot Learning","author_name":"Jonalthan H. Connell","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a734f"},"book_id":"262041642","title":"Robot Shaping: An Experiment in Behavior Engineering","author_name":"Marco Colombetti","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7350"},"book_id":"471587192","title":"SALAS and HILLES CALCULUS","author_name":"Garret J.Etgen","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7351"},"book_id":"672314800","title":"Sam's Teach Yourself UNIX in 24 Hours, Second Edition","author_name":"Dave Taylor","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7352"},"book_id":"1576573842","title":"Santa's Workshop","author_name":"Nancy Parent","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7353"},"book_id":"71354190","title":"Science at the Extreme: Scientists on the Cutting Edge of Discovery","author_name":"Peter Lane Taylor","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7354"},"book_id":"967697603","title":"Seafood Lovers Almanac","author_name":"Mercedes Lee","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7355"},"book_id":"067976674X","title":"Selected Stories","author_name":"Alice Munro","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7356"},"book_id":"393316009","title":"Ship Fever","author_name":"Andrea Barrett","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7357"},"book_id":"689836015","title":"Silent to the Bone","author_name":"E. L. Konigsburg","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7358"},"book_id":"887251714","title":"Skiing Everyone","author_name":"Jim Cottrell","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7359"},"book_id":"966625307","title":"So You Want to Live in Hawaii","author_name":"Toni Polancy","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a735a"},"book_id":"531164497","title":"Spiders of North America","author_name":"Ann O. Squire","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a735b"},"book_id":"812093119","title":"Statistics","author_name":"Martin Sternstein","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a735c"},"book_id":"553575538","title":"Stealing Shadows","author_name":"Kay Hooper","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a735d"},"book_id":"967174805","title":"Stranger in the Woods","author_name":"Carl R. Sam","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a735e"},"book_id":"935039031","title":"Streetwise Manhattan","author_name":"Michael Brown","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a735f"},"book_id":"962593460X","title":"Sushi","author_name":"Ryuichi Yoshii","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7360"},"book_id":"78823927","title":"Teach yourself C++","author_name":"Herb Schildt","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7361"},"book_id":"932813739","title":"Technology of the Gods : The Incredible Sciences of the Ancients","author_name":"David Hatcher Childress","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7362"},"book_id":"684856093","title":"The 7 Habits","author_name":"Sean Covey","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7363"},"book_id":"465041752","title":"The Ape and the Sushi Master","author_name":"Frans de Waal","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7364"},"book_id":"936184388","title":"The Best Recipe","author_name":"Carl Tremblay","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7365"},"book_id":"688069711","title":"The Body Electric: Electromagnetism and the Foundation of Life","author_name":"Gary Selden","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7366"},"book_id":"201700735","title":"The C++ Programming Language Special Edition","author_name":"Bjarne Stroustrup","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7367"},"book_id":"201379260","title":"The C++ Standard Library : A Tutorial and Reference","author_name":"Nicolai M. Josuttis","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7368"},"book_id":"761117199","title":"The Cake Mix Doctor","author_name":"Ann Byin","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7369"},"book_id":"399146652","title":"The Cat Who Smelled a Rat","author_name":"Lilian Jackson Braun","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a736a"},"book_id":"78823978","title":"The complete reference HTML","author_name":"Thomas Powell","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a736b"},"book_id":"760049254","title":"The Concepts of Database","author_name":"Philip Pratt","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a736c"},"book_id":"743215052","title":"The Constant Gardener","author_name":"John Le Carre","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a736d"},"book_id":"590496379","title":"The Discovery","author_name":"K.A. Applegate","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a736e"},"book_id":"590494414","title":"The Decision","author_name":"K.A. Applegate","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a736f"},"book_id":"813527406","title":"The Emergence of Life on Earth : A Historical and Scientific Overview","author_name":"Iris Fry","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7370"},"book_id":"811213668","title":"The Emigrants","author_name":"Michael Hulse","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7371"},"book_id":"810961695","title":"The Family of Man","author_name":"Edward Steichen","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7372"},"book_id":"810936852","title":"The Georgia O_Keeffe Museum","author_name":"Peter H Hassrick","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7373"},"book_id":"375502025","title":"The Greatest Generation","author_name":"Tom Brokaw","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7374"},"book_id":"385479565","title":"The Hot Zone","author_name":"Richard Preston","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7375"},"book_id":"870212850","title":"The Hunt For Red October","author_name":"Tom Clancy","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7376"},"book_id":"961470151","title":"The Jazz Piano Book","author_name":"Mark Levine","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7377"},"book_id":"812520629","title":"The Last Aerie","author_name":"Brian Lumley","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7378"},"book_id":"151004714","title":"The Last Life","author_name":"Claire Messud","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7379"},"book_id":"517707950","title":"The Law of Love","author_name":"Laura Esquivel","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a737a"},"book_id":"1576572862","title":"The Little Green Fish","author_name":"Nancy Parent","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a737b"},"book_id":"30615372","title":"The Mbuti Pygmies","author_name":"Colin M. Turnbull","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a737c"},"book_id":"198503652","title":"The Meme Machine","author_name":"Susan J. Blackmore","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a737d"},"book_id":"393314251","title":"The Mismeasure of Man","author_name":"Stephen Jay Gould","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a737e"},"book_id":"345350499","title":"The mists of avalon","author_name":"Marion Zimmer Bradley","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a737f"},"book_id":"553283936","title":"The Negotiator","author_name":"Frederick Forsyth","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7380"},"book_id":"684818701","title":"The New Joy of Cooking","author_name":"Maria D. Guarnaschelli","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7381"},"book_id":"014051452X","title":"The Penguin Guide to Jazz on C.d (Penguin Guide to Jazz on Cd, 5th Ed)","author_name":"Richard Cook","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7382"},"book_id":"805057579","title":"The Predictors","author_name":"Thomas A. Bass","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7383"},"book_id":"811716937","title":"The Sausage Making Cookbook","author_name":"Jerry Predika","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7384"},"book_id":"374141231","title":"The Second Creation: Dolly and the Age of Biological Control","author_name":"Colin Tudge","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7385"},"book_id":"809299674","title":"The Second World War in Color","author_name":"Adrian Wood","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7386"},"book_id":"038071115X","title":"The Soul of a New Machine","author_name":"Tracy Kidder","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7387"},"book_id":"738201960","title":"The Spark of Life : Darwin and the Primeval Soup","author_name":"Christopher Wills","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7388"},"book_id":"60287659","title":"The Stones Are Hatching","author_name":"Geraldine McCaughrean","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7389"},"book_id":"425133540","title":"The Sum of All Fears","author_name":"Tom Clancy","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a738a"},"book_id":"034538475X","title":"The tale of the body thief","author_name":"Anne Rice","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a738b"},"book_id":"671047310","title":"The Third Option","author_name":"Vince Flynn","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a738c"},"book_id":"590262540","title":"The Threat","author_name":"K.A. Applegate","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a738d"},"book_id":"716736381","title":"The Triumph of Evolution...And the Failure of Creationism","author_name":"Niles Eldredge","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a738e"},"book_id":"590494368","title":"The Underground","author_name":"K.A. Applegate","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a738f"},"book_id":"345313860","title":"The vampire lestat","author_name":"Anne Rice","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a7390"},"book_id":"345384466","title":"The Witching Hour","author_name":"Anne Rice","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7391"},"book_id":"125535600","title":"Theory and Applications of Numerical Analysis","author_name":"GM Phillips","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a7392"},"book_id":"130273635","title":"Thinking in Java","author_name":"Bruce Eckel","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7393"},"book_id":"312965095","title":"This Time for Keeps","author_name":"Kathleen Kane","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7394"},"book_id":"618056777","title":"Through a Window","author_name":"Jane Goodall","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7395"},"book_id":"345417623","title":"Timeline","author_name":"Michael Crichton","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7396"},"book_id":"446310783","title":"To Kill a Mockingbird","author_name":"Harper Lee","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a7397"},"book_id":"083512035x","title":"Two Year in the Melting pot","author_name":"Liu Zongen","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a7398"},"book_id":"020165783X","title":"UML Distilled, Second Edition","author_name":"Kendall Scott","total":4,"available":4}
+{"_id":{"$oid":"58ce3037dffedbe1022a7399"},"book_id":"505523078","title":"Virtual Heaven","author_name":"Ann Lawrence","total":2,"available":2}
+{"_id":{"$oid":"58ce3037dffedbe1022a739a"},"book_id":"911625453","title":"VSAM for the Cobol Programmer","author_name":"Doug Lowe","total":1,"available":1}
+{"_id":{"$oid":"58ce3037dffedbe1022a739b"},"book_id":"689829418","title":"Totally the Messiest","author_name":"Preiss-Glasser","total":0,"available":0}
+{"_id":{"$oid":"58ce3037dffedbe1022a739c"},"book_id":"156007088","title":"Walking with the Wind","author_name":"John Lewis","total":3,"available":3}
+{"_id":{"$oid":"58ce3037dffedbe1022a739d"},"book_id":"425143325","title":"Without Remorse","author_name":"Tom Clancy","total":1,"available":1}
